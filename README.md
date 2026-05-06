@@ -12,5 +12,6 @@ Pastikan Anda sudah menginstall :
 
 ## Credits
 - Thanks to Allah
+- Thanks to all
 - Suisei istri gweh(izhu)
 - bismillah lulus N4
